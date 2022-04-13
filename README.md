@@ -1,7 +1,6 @@
 ### 👩🏼‍💻 Welcome, I'm Thaís Leão
 
-- 🔭 &nbsp; I’m currently working on <a href="http://www.ifood.com.br">iFood</a> as Software Engineering
-- 🌱 &nbsp; I’m currently learning [Next.js](https://nextjs.org/) and [React](https://pt-br.reactjs.org/)
+- 🔭 &nbsp; I’m currently working on <a href="http://www.ifood.com.br">iFood</a> as Frontend Developer
 - 💻 &nbsp; I'm developer since 2013
 
 
